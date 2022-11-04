@@ -2,8 +2,6 @@
 
 I'm from Volgograd and I'm studying at Volgograd State Technical University.
 
-I like low level programming and C++ 😤, and also I can make a website 🤡 for you with TypeScript/TailwindCSS/SCSS on React JS.
-
 You can reach me on 💬[**Telegram**](https://t.me/kojem9ka)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojem9ka&theme=dark&show_icons=true)
